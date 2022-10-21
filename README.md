@@ -38,7 +38,7 @@
        
 ## 1.4. 참여 방법
 
-1. [최강6기](https://github.com/YagomCareerStarterCamp-6) Organization의 Interview-study-in-swift 레포지토리
+1. [최강6기](https://github.com/YagomCareerStarterCamp-6) Organization의 Interview-study-in-swift
 2. 해당 리드미를 숙지하고, 수행합니다.
         
 ## 1.5. 스터디 인원
